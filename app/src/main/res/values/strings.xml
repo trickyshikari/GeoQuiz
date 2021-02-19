@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_1">Столица Турции - Константинополь</string>
+    <string name="question_2">Тихий океан больше, чем Атлантический</string>
+    <string name="question_3">Суэцкий канал соединяет Красное море\n с Индийским океаном</string>
+    <string name="question_4">Река Нил начинается в Египте</string>
+    <string name="question_5">Самая удаленная от всех океанов\n на Земле точка находится в России</string>
+    <string name="question_6">Самым чистым морем на Земле\n считается Море Уэддела в Антарктиде</string>
+    <string name="question_7">Из 25 самых высоких вершин мира\n 19 находятся в Гималаях.</string>
+    <string name="question_8">Ганг имеет самую большую дельту\n из всех рек планеты</string>
+    <string name="answer_1">Столица Турции - Анкара</string>
+    <string name="answer_2">Тихий океан больше, чем Атлантический</string>
+    <string name="answer_3">Эль-Мендеб соединяет Красное море\n с Индийским океаном</string>
+    <string name="answer_4">Река Нил начинается в Судане</string>
+    <string name="answer_5">Самая удаленная от всех океанов\n на Земле точка находится в Китае</string>
+    <string name="answer_6">Самым чистым морем на Земле\n считается Море Уэддела в Антарктиде</string>
+    <string name="answer_7">Из 25 самых высоких вершин мира\n 19 находятся в Гималаях.</string>
+    <string name="answer_8">Ганг имеет самую большую дельту\n из всех рек планеты</string>
+    <string name="button_true">Это правда</string>
+    <string name="button_false">Это ложь</string>
+    <string name="button_next">Следующий</string>
+    <string name="button_prev">Предыдущий</string>
+    <string name="toast_true">Вы ответили правильно! </string>
+    <string name="toast_false">Вы ответили неправильно!</string>>
+</resources>
